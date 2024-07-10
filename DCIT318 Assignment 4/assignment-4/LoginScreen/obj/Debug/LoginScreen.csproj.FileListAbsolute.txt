@@ -1,0 +1,10 @@
+D:\dcit318-Assignment4-10964242\LoginScreen\bin\Debug\LoginScreen.exe.config
+D:\dcit318-Assignment4-10964242\LoginScreen\bin\Debug\LoginScreen.exe
+D:\dcit318-Assignment4-10964242\LoginScreen\bin\Debug\LoginScreen.pdb
+D:\dcit318-Assignment4-10964242\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+D:\dcit318-Assignment4-10964242\LoginScreen\obj\Debug\LoginScreen.LoginScreen.resources
+D:\dcit318-Assignment4-10964242\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+D:\dcit318-Assignment4-10964242\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+D:\dcit318-Assignment4-10964242\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+D:\dcit318-Assignment4-10964242\LoginScreen\obj\Debug\LoginScreen.exe
+D:\dcit318-Assignment4-10964242\LoginScreen\obj\Debug\LoginScreen.pdb
